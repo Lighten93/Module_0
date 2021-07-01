@@ -31,7 +31,7 @@ def game_core_interval(number):
     return guess_attempt
 
 
-print("Текущее количество попыток угаадачть число:", game_core_interval(number))
+print("Текущее количество попыток угаадать число:", game_core_interval(number))
 
 
 def score_game(game_core):
